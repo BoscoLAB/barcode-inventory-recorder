@@ -1,0 +1,11 @@
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\obj\Debug\ErfassungBarcode.csproj.AssemblyReference.cache
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\obj\Debug\ErfassungBarcode.csproj.SuggestedBindingRedirects.cache
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\obj\Debug\ErfassungPlatten.ErfassungBarcode.resources
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\obj\Debug\ErfassungBarcode.csproj.GenerateResource.cache
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\bin\Debug\ErfassungBarcode.exe.config
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\bin\Debug\ErfassungBarcode.exe
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\bin\Debug\ErfassungBarcode.pdb
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\obj\Debug\ErfassungBarcode.Properties.Resources.resources
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\obj\Debug\ErfassungBarcode.csproj.CoreCompileInputs.cache
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\obj\Debug\ErfassungBarcode.exe
+C:\Users\rudolf.schuba\Nextcloud\Projekte\ErfassungBarcode\ErfassungPlatten\obj\Debug\ErfassungBarcode.pdb
